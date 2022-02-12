@@ -68,6 +68,25 @@ header {
     display: flex;
     justify-content: space-between;
 }
+.section3 li {
+    position: relative;
+}
+.section3 div {
+    position: absolute;
+    top: 224px;
+    width: 370px;
+height: 70px;
+    background-color: rgba(47, 48, 58, 0.8);
+    text-align: center;
+    color: #FFFFFF;
+}
+.section3-div p {
+    margin-top: 27px;
+    margin-bottom: 27px;
+    font-weight: 700px;
+    font-size: 14px;
+    line-height: 16.41px;
+}
 .main_section4 {
     display: flex;
     justify-content: space-between;
@@ -201,7 +220,7 @@ margin-bottom: 50px;
         margin-top: 94px;
 }
 .main_section5 {
-    background-color: #E5E5E5;
+    background-color: #F5F4FA;
 }
 
 .main_section4>li {
