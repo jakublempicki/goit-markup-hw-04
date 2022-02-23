@@ -401,12 +401,8 @@ h1 {
     width: 121px;
 }
 
-.section_figcaption {
-    margin-top: 20px;
-}
-.section_figcaption_span {
-    margin-top: 4px;
-}
+
+
 
 
 
@@ -435,7 +431,9 @@ font-size: 18px;
 font-weight: 700;
     line-height: 35px;
     margin-bottom: 20px;
-
+    margin-top: 20px;
+    padding-left: 24px;
+}
 
 }
 .section_figcaption p {
@@ -451,6 +449,8 @@ font-weight: 700;
     line-height: 35px;
         padding-top: 5px;
         padding-bottom: 5px;
+            margin-top: 4px;
+
 }
 
 .figcaption_main {
