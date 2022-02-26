@@ -88,6 +88,7 @@ height: 70px;
     display: flex;
     justify-content: space-between;
     background-color: #F5F4FA;
+    margin-bottom: 94px;
 }
 
 .section-nav {
@@ -217,12 +218,9 @@ margin-bottom: 50px;
 .main_section5 h2 {
         text-align: center;
         margin-bottom: 50px;
-        padding-top: 94px;
 }
 .main_section5 {
-    background-color: #E5E5E5;
         padding-bottom: 94px;
-        margin-top: 94px;
 
 }
 
